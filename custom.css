@@ -4,6 +4,7 @@
     background-color: #00b2ff;
 }
 
+
 .header {
     background-image: url("img/balloon-1.jpg");
     background-size: cover;
@@ -76,7 +77,7 @@ span {
 }
 
 #pad {
-    padding: 20px;
+    padding: 12px;
 }
 
 .tile {
