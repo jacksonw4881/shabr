@@ -4,6 +4,9 @@
     background-color: #00b2ff;
 }
 
+a {
+    color: black !important;
+}
 
 .header {
     background-image: url("img/balloon-1.jpg");

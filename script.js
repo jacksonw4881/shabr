@@ -10,9 +10,7 @@ $(document).ready(function() {
       });
     }
   });
-})
-
-$(window).scroll(function() {
+  $(window).scroll(function(){
     $(".info").each(function() {
         var scroll = $(this).offset().top;
         var winTop = $(window).scrollTop();
@@ -20,4 +18,5 @@ $(window).scroll(function() {
             $(this).addClass("slide");
         }
     });
-});
+  });
+})
